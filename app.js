@@ -25,6 +25,7 @@ app.use(
       "http://localhost:5173",
       "https://forge-admin-eight.vercel.app",
       "http://127.0.0.1:5500",
+      "http://145.223.22.33:5173",
       "https://sujan14728.github.io",
       "https://www.forge-iv.co",
       "https://forge-admin-panel.vercel.app",
